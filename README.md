@@ -26,7 +26,7 @@ I have earned a diverse set of certifications, including:
 
 My goal is to work hands-on with cloud-native technologies and use Devops practices to build reliable, scalable and fault-tolerant systems. I'm looking to be more involved with the open source community and learn to contribute to open-source projects using industry best practices. 
 
-<img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
+
 
 <img width="186" height="186" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/5937113f-918d-4eae-a89c-ec1fe0e632c5" />
 
@@ -36,4 +36,5 @@ My goal is to work hands-on with cloud-native technologies and use Devops practi
 
 <img width="209" height="206" alt="image" src="https://github.com/user-attachments/assets/e1ed4ad5-b909-4673-9d77-a203a439f984" />
 
+<img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
 

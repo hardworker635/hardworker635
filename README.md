@@ -28,7 +28,12 @@ My goal is to work hands-on with cloud-native technologies and use Devops practi
 
 <div><a href="https://cloud.layer5.io/user/efc8d32a-bc32-4f49-b12a-5bc802a9a553?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
-[![Credly Badge](https://images.credly.com/size/150x150/images/1292027b-1636-4860-96ce-c4d3d59e29e4.png)](https://www.credly.com/badges/1292027b-1636-4860-96ce-c4d3d59e29e4/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/1292027b-1636-4860-96ce-c4d3d59e29e4/public_url">
+    <img src="https://images.credly.com/size/150x150/images/1292027b-1636-4860-96ce-c4d3d59e29e4.png" width="150" alt="Credly Badge" />
+  </a>
+</p>
+
 
 
 

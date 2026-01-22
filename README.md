@@ -28,8 +28,7 @@ My goal is to work hands-on with cloud-native technologies and use Devops practi
 
 <div><a href="https://cloud.layer5.io/user/efc8d32a-bc32-4f49-b12a-5bc802a9a553?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
-<img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge (1)" src="https://github.com/user-attachments/assets/13f4c1fb-270d-4284-bbcf-4d845bd752cb" />
-
+<img width="96" height="96" alt="aws-cloud-quest-cloud-practitioner-training-badge (2)" src="https://github.com/user-attachments/assets/6e739918-b72c-41ec-96ac-658193384601" />
 
 
 

@@ -28,11 +28,7 @@ My goal is to work hands-on with cloud-native technologies and use Devops practi
 
 <div><a href="https://cloud.layer5.io/user/efc8d32a-bc32-4f49-b12a-5bc802a9a553?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3c75dc72-9335-49d3-b2aa-3cbd33a2f505" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18953fe8-ebb2-4b31-b71a-7ccdeaab0377" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1292027b-1636-4860-96ce-c4d3d59e29e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge](https://images.credly.com/size/150x150/images/1292027b-1636-4860-96ce-c4d3d59e29e4.png)](https://www.credly.com/badges/1292027b-1636-4860-96ce-c4d3d59e29e4/public_url)
 
 
 

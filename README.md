@@ -28,8 +28,11 @@ My goal is to work hands-on with cloud-native technologies and use Devops practi
 
 <div><a href="https://cloud.layer5.io/user/efc8d32a-bc32-4f49-b12a-5bc802a9a553?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
+<img width="186" height="186" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/5937113f-918d-4eae-a89c-ec1fe0e632c5" />
+
 <img width="186" height="186" alt="aws-cloud-quest-cloud-practitioner-training-badge (5)" src="https://github.com/user-attachments/assets/43809fe6-817d-454b-a192-3c3506fc5213" />
 
+<img width="192" height="192" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/73e3ea65-5edb-449e-a897-e303bb5a8140" />
 
 
 
